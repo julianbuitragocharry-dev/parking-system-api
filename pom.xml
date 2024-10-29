@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.usco</groupId>
-    <artifactId>parking-system-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>Parking System Api</artifactId>
+    <version>v1.0</version>
     <name>parking-system-api</name>
     <description>parking-system-api</description>
     <url/>
