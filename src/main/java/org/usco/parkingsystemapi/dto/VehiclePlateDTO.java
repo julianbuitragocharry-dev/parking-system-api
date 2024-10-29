@@ -1,4 +1,4 @@
-package org.usco.parkingsystemapi;
+package org.usco.parkingsystemapi.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
